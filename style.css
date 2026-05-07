@@ -305,7 +305,7 @@ section { padding: 120px 8vw; }
   width: 100%;
   display: block;
   background: var(--black);
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 540 / 465;
 }
 
 /* ============ CLIP GRID ============ */
@@ -330,7 +330,7 @@ section { padding: 120px 8vw; }
 .clip video {
   width: 100%;
   display: block;
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 540 / 465;
   background: var(--black);
   object-fit: cover;
 }
